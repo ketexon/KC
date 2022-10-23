@@ -1,5 +1,1 @@
-// #include <KC/KC.hpp>
-
-int main(){
-    
-}
+#include <KC/KC.hpp>
